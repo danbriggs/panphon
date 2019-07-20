@@ -1,7 +1,7 @@
 -
     name: labial obstruents
-    def: "[-son +ant -cor + lab]"
-    label: B
+    def: "[-son +ant -cor +lab]"
+    label: P
 -
     name: coronal fricatives
     def: "[-son +cor +cont +strid -delrel]"
@@ -29,6 +29,10 @@
 -
     name: lateral
     def: "[+lat]"
+    label: L
+-
+    name: laryngeals
+    def: "[-syl +son +cons +cont -cor -hi -back -lo]"
     label: R
 -
     name: approximates and trills
@@ -42,10 +46,6 @@
     name: labiovelar glide
     def: "[-syl +son]"
     label: W
--
-    name: laryngeals
-    def: "[-syl +son +cons +cont -cor -hi -back -lo]"
-    label: H
 -
     name: consonants
     def: "[-syl]"
