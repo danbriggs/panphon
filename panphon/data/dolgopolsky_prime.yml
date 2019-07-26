@@ -29,7 +29,7 @@
 -
     name: lateral
     def: "[+lat]"
-    label: L
+    label: R
 -
     name: labiovelar glide
     def: "[-syl +son +lab]"
@@ -37,7 +37,7 @@
 -
     name: laryngeals
     def: "[-syl +son +cons +cont -cor -hi -back -lo]"
-    label: R
+    label: H
 -
     name: approximates and trills
     def: "[-syl +son -nas]"
